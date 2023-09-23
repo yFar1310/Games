@@ -30,6 +30,7 @@ public class main{
                     break;
                 }
                 game.currentPlayer = (game.currentPlayer.getSymbol().equals("X")) ? new Player("O") : new Player("X");
+                //I'll add the explication of the use of ? tomorrow :) 
             }
             else 
             {
