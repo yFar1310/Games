@@ -5,6 +5,7 @@ public class TicTacToeBoard {
     private int size = 3;
     public Player currentPlayer;
 
+
     //Constructeur par défaut
     public TicTacToeBoard()
     {
