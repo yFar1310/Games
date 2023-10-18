@@ -4,7 +4,7 @@ public class TicTacToeBoard {
     private String[][] board;
     private int size = 3;
     public Player currentPlayer;
-    
+
     //Constructeur par défaut
     public TicTacToeBoard()
     {
